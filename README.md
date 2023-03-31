@@ -1,4 +1,13 @@
-### Hi there 👋
+## Taiyou Sekiguchi
+
+🌱  I am a student at 42Tokyo.
+
+[![tsekiguc's 42 stats](https://badge42.vercel.app/api/v2/clfvwz0r4002508juln9tdu3j/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaiyouSekiguchi&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=TaiyouSekiguchi&theme=onedark&show_icons=ture" />
+</p>
 
 <!--
 **TaiyouSekiguchi/TaiyouSekiguchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
